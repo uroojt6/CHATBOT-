@@ -1,5 +1,6 @@
 🤖 AI Chatbot using Python & NLP
-🚀 A Smart AI-powered Chatbot that Understands and Responds Naturally!
+
+![Chatbot Preview](https://github.com/uroojt6/CHATBOT-/blob/8d9ef67463ab90515528ae26c8e443178ae75c53/CHATBOT.PNG?raw=true)
 
 🔹 Overview
 This chatbot is built using Python, Natural Language Processing (NLP), and Machine Learning to engage in intelligent conversations. It can understand user queries, process language contextually, and provide relevant responses.
